@@ -1,0 +1,17 @@
+https://stackoverflow.comquestions/39190083/how-can-i-scroll-an-application-using-adb/39190185#39190185
+
+https://fazlerabbi37.github.io/blogs/adb_cheat_sheet.html
+
+https://stackoverflow.com/questions/25500567/is-it-possible-to-produce-continuous-swipe-action-on-the-touchscreen-with-adb
+
+https://github.com/hashpire/adb-right-swipe/blob/master/right-swipe.py
+
+https://forum.xda-developers.com/t/q-adb-input-keyevent-for-long-press-on-power-button.2063741/#post-64890206
+
+https://itnext.io/how-you-can-control-your-android-device-with-python-45c3ab15e260
+
+
+https://levelup.gitconnected.com/automating-android-games-with-python-pytesseract-sudoku-c25b811d5e8a
+
+
+https://www.youtube.com/watch?v=0Anz2Y2O4Tk&list=PL_EIKkTd1IGK0Xe-9foGXFyN7mqTqbKQQ&index=22

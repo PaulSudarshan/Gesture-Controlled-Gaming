@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Work_Files\\Gesture_Controlled_Gaming\\Models\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "D:\\Work_Files\\Gesture_Controlled_Gaming\\Models\\GestureRecogModel.tfl"
